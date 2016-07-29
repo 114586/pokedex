@@ -1,0 +1,158 @@
+	<!--
+	<div class="inhoud">
+		<div class="plaatje"><img src="img/bulbasaur.jpg" />
+		</div>
+		<div class="tekst">
+			<div class="naam">
+				Bulbasaur
+			</div>
+			<div class="info">
+				<p>Bulbasaur is een <font class="groen">Grass</font>/<font class="paars">Poison</font> type Pokémon.</p>
+				<p>Hij evolueerd in Ivysaur, die evolueerd in Venusaur.</p>			
+			</div>		
+		</div>	
+	</div>
+	<div class="inhoud">
+		<div class="plaatje"><img src="img/ivysaur.jpg" height="170px"/>
+		</div>
+		<div class="tekst">
+			<div class="naam">
+				Ivysaur
+			</div>
+			<div class="info">
+				<p>Ivysaur is een <font class="groen">Grass</font>/<font class="paars">Poison</font> type Pokémon.</p>
+				<p>Hij evolueerd in Venusaur.</p>		 
+			</div>		
+		</div>	
+	</div>
+	<div class="inhoud">
+		<div class="plaatje"><img src="img/venusaur.jpg" height="176px"/>
+		</div>
+		<div class="tekst">
+			<div class="naam">
+				Venusaur
+			</div>
+			<div class="info">
+				<p>Venusaur is een <font class="groen">Grass</font>/<font class="paars">Poison</font> type Pokémon.</p>
+				<p>Hij evolueerd niet meer.</p>		 
+			</div>		
+		</div>	
+	</div>
+	<div class="inhoud">
+		<div class="plaatje"><img src="img/charmander.jpg" height="170px"/>
+		</div>
+		<div class="tekst">
+			<div class="naam">
+				Charmander
+			</div>
+			<div class="info">
+				<p>Charmander is een <font class="rood">fire</font> type Pokémon.</p>
+				<p>Hij evolueerd in Charmeleon, die evolueerd in Charizard.</p>			
+			</div>		
+		</div>	
+	</div>
+	<div class="inhoud">
+		<div class="plaatje"><img src="img/charmeleon.jpg" height="170px"/>
+		</div>
+		<div class="tekst">
+			<div class="naam">
+				Charmeleon
+			</div>
+			<div class="info">
+				<p>Charmeleon is een <font class="rood">fire</font> type Pokémon.</p>
+				<p>Hij evolueerd in Charizard.</p>			
+			</div>		
+		</div>	
+	</div>
+	<div class="inhoud">
+		<div class="plaatje"><img src="img/charizard.jpg" height="176px"/>
+		</div>
+		<div class="tekst">
+			<div class="naam">
+				Charizard
+			</div>
+			<div class="info">
+				<p>Charizard is een <font class="rood">fire</font> type Pokémon.</p>
+				<p>Hij evolueerd niet meer.</p>		 
+			</div>		
+		</div>	
+	</div>
+	<div class="inhoud">
+		<div class="plaatje"><img src="img/squirtle.jpg" height="170px"/>
+		</div>
+		<div class="tekst">
+			<div class="naam">
+				Squirtle
+			</div>
+			<div class="info">
+				<p>Squirtle is een <font class="blauw">Water</font> type Pokémon.</p>
+				<p>Hij evolueerd in Wartortle, die evolueerd in Blastoise.</p>			
+			</div>		
+		</div>	
+	</div>
+	<div class="inhoud">
+		<div class="plaatje"><img src="img/wartortle.jpg" height="170px"/>
+		</div>
+		<div class="tekst">
+			<div class="naam">
+				Wartortle
+			</div>
+			<div class="info">
+				<p>Wartortle is een <font class="blauw">Water</font> type Pokémon.</p>
+				<p>Hij evolueerd in Blastoise.</p>			
+			</div>		
+		</div>	
+	</div>
+	<div class="inhoud">
+		<div class="plaatje"><img src="img/blastoise.jpg" height="170px"/>
+		</div>
+		<div class="tekst">
+			<div class="naam">
+				Blastoise
+			</div>
+			<div class="info">
+				<p>Blastoise is een <font class="blauw">Water</font> type Pokémon.</p>
+				<p>Hij evolueerd niet meer.</p>			
+			</div>		
+		</div>	
+	</div>
+	<div class="inhoud">
+		<div class="plaatje"><img src="img/caterpie.jpg" height="170px"/>
+		</div>
+		<div class="tekst">
+			<div class="naam">
+				Caterpie
+			</div>
+			<div class="info">
+				<p>Caterpie is een <font class="groen2">bug</font> type Pokémon.</p>
+				<p>Hij evolueerd in Metapod, die evolueerd in Butterfree.</p>			
+			</div>		
+		</div>	
+	</div>
+	<div class="inhoud">
+		<div class="plaatje"><img src="img/metapod.jpg" height="170px"/>
+		</div>
+		<div class="tekst">
+			<div class="naam">
+				Metapod
+			</div>
+			<div class="info">
+				<p>Metapod is een <font class="groen2">bug</font> type Pokémon.</p>
+				<p>Hij evolueerd in Butterfree.</p>			
+			</div>		
+		</div>	
+	</div>
+	<div class="inhoud">
+		<div class="plaatje"><img src="img/butterfree.jpg" height="170px"/>
+		</div>
+		<div class="tekst">
+			<div class="naam">
+				Butterfree
+			</div>
+			<div class="info">
+				<p>Butterfree is een <font class="groen2">bug</font>/<font class="lila">flying</font> type Pokémon.</p>
+				<p>Hij evolueerd niet meer.</p>			
+			</div>		
+		</div>	
+	</div>
+	-->

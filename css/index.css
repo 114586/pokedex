@@ -1,0 +1,223 @@
+
+#wrapper{
+   position: relative;
+   left: 0;
+   right: 0;
+   top: 20px;
+   bottom: 0;
+   /*border: 1px solid #7519D1;*/ 
+    
+}
+
+
+.page{
+	/*width:1000px;*/
+	font-family:Tahoma,Arial,Serif;
+    /*border: 1px solid #ff0800;*/
+}
+
+.title{
+	font-size:40px;
+	color:#0033CC;	
+	text-align:center;
+	/*border: 1px solid lightgrey;*/
+	text-shadow: 5px 0px 5px rgba(10, 47, 255, 1);
+}
+
+.kaartframe{
+    width:22.65%;
+    /*float:left;*/
+    display: inline-block;
+	overflow:hidden;
+	margin:0.5%;
+    padding: 0.5%;
+    text-align: center;
+	border: 1px solid lightgrey;
+	/*border-radius: 25px; */
+	box-shadow: 10px 10px 10px #888888;  
+    
+}
+
+.kaart{    
+    width:100%;
+    /*float:left;*/
+    display: inline-block;
+	overflow:hidden;
+	margin:0.5%;
+    padding: 0.5%;
+    text-align: center;
+   
+  }
+
+.kaart:hover{
+    -webkit-animation-name: example; /* Chrome, Safari, Opera */
+    -webkit-animation-duration: 3s; /* Chrome, Safari, Opera */
+    /*-webkit-animation-delay: 2s; *//* Chrome, Safari, Opera */
+    animation-name: example;
+    animation-duration: 3s;
+    /*animation-delay: 2s;*/
+    
+}
+
+@-webkit-keyframes example {
+     0%   {
+            background-color:red; 
+            /*width:100%;*/
+            border-radius: 0%; 
+            -ms-transform: rotate(0deg); /* IE 9 */
+            -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+            transform: rotate(0deg);
+        }
+        
+    20%{
+            background-color:orange;
+            /*width:50%;*/   
+        
+    }
+    
+    40%{
+            background-color:yellow;
+            /*width:50%;*/            
+    }
+    
+    50%{
+            border-radius: 50%; 
+        
+    }
+    
+    60%{
+            background-color:green;
+            /*width:50%;*/            
+    }
+    
+    80%{
+            background-color:blue;
+            /*width:50%;*/  
+             
+    }
+    
+    100% {
+            background-color:indigo; 
+            /*width:25%;*/
+            border-radius: 0%; 
+             -ms-transform: rotate(360deg); /* IE 9 */
+            -webkit-transform: rotate(360deg); /* Chrome, Safari, Opera */
+            transform: rotate(360deg);
+            }
+}
+
+/* Standard syntax */
+@keyframes example {
+     0%   {
+            background-color:red; 
+            /*width:100%;*/
+            border-radius: 0%; 
+            -ms-transform: rotate(0deg); /* IE 9 */
+            -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+            transform: rotate(0deg);
+        }
+        
+    20%{
+            background-color:orange;
+            /*width:50%;*/   
+        
+    }
+    
+    40%{
+            background-color:yellow;
+            /*width:50%;*/            
+    }
+    
+    50%{
+            border-radius: 50%; 
+        
+    }
+    
+    60%{
+            background-color:green;
+            /*width:50%;*/            
+    }
+    
+    80%{
+            background-color:blue;
+            /*width:50%;*/  
+             
+    }
+    
+    100% {
+            background-color:indigo; 
+            /*width:25%;*/
+            border-radius: 0%; 
+             -ms-transform: rotate(360deg); /* IE 9 */
+            -webkit-transform: rotate(360deg); /* Chrome, Safari, Opera */
+            transform: rotate(360deg);
+            }
+}
+
+
+/*
+.plaatje{
+	float:left;
+	width:200px;
+	border-right: 1px solid lightgrey;	
+	
+}*/
+.tekst{
+	/*width:790px;
+	float:right;*/
+	/*border: 1px solid lightgrey;*/
+}
+
+.naam{
+	font-size:20px;	
+	/*border-top: 1px solid lightgrey;*/
+
+}
+
+.info{
+	height:152px;
+	font-size:14px;	
+	overflow:auto;
+    text-align: left;
+	/*border-bottom: 1px solid lightgrey;*/
+}
+
+.paars{
+	color:#7519D1;
+}
+
+.groen{
+	color:#3d8e33;
+}
+
+.rood{
+	color:#ff0800;
+}
+
+.blauw{
+	color:#1bc2ff;
+}
+
+.groen2{
+	color:#CCCC00
+}
+
+.lila{
+	color:#aa99dd
+}
+
+.grijs{
+	color:#D4D4D4
+}
+
+.geel{
+	color:#FFFF00
+}
+
+.bruin{
+	color:#CCAB47
+}
+
+.roze{
+	color:#FFADFF
+}
